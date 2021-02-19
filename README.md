@@ -1,15 +1,13 @@
 ## 概述
-Android, IOS 证件OCR插件（身份证，银行卡等）
+Android, IOS 证件OCR插件（身份证，银行卡等），如下
 
 ---
 
+![ocrdemo](http://open.esandcloud.com/share/index.php/s/Su4XdybcJsZgJM2/download)
 
-## 插件接口说明
-插件地址：[https://ext.dcloud.net.cn/plugin?id=2528](https://ext.dcloud.net.cn/plugin?id=2528)
-
-接口如下
-### 执行OCR识别
-```
+## 插件的使用
+对外提供接口：
+```js
 /*
  * 执行OCR识别
  * @param options(JSONObject), 包括如下字段：
@@ -46,13 +44,13 @@ Android, IOS 证件OCR插件（身份证，银行卡等）
  }
  */
 esandOcrModule.processOcr(options, callback);
-
 ```
+
 ## 其他信息
- 1.完整接入文档：https://esandinfo.yuque.com/books/share/80f28828-9ab9-45f4-a73d-b10dc6f91083?#
- 2.服务器端协议文档：https://market.aliyun.com/products/57000002/cmapi00042834.html
- 3.后端管理控制台地址: http://openali.esandcloud.com
- 4.技术支持
+1. 完整接入文档：[https://esandinfo.yuque.com/books/share/80f28828-9ab9-45f4-a73d-b10dc6f91083?#](https://esandinfo.yuque.com/books/share/80f28828-9ab9-45f4-a73d-b10dc6f91083?# )
+2. 服务器端协议文档：[https://market.aliyun.com/products/57000002/cmapi00042834.html](https://market.aliyun.com/products/57000002/cmapi00042834.html)
+3. 后端管理控制台地址: [http://openali.esandcloud.com](http://openali.esandcloud.com)
+4. 技术支持
 ```
 微信：esand_info
 qq: 3626921591
@@ -60,4 +58,3 @@ qq: 3626921591
 邮箱：ruide.li@esandinfo.com
 ```
 ![wechatqrcode](http://open.esandcloud.com/share/index.php/s/hzT4Gb0BN81svae/download)
-
