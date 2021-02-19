@@ -24,7 +24,7 @@
 </template>
 <script>
 	const esandOcrModule = uni.requireNativePlugin('Esand-OcrModule');
-	const APPCODE="2294b96c1dce4aedafa39bfa3fc5708c";
+	const APPCODE="换成你的APPCODE";
 	export default {
 	    data() {
 	        return {
