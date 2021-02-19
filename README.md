@@ -1,5 +1,5 @@
 ## 概述
-Android, IOS 证件OCR插件（身份证，银行卡等），完整的介入文档可参考：[https://esandinfo.yuque.com/books/share/5639442d-125b-46c8-b7fa-845c5c8649ea?#](https://esandinfo.yuque.com/books/share/5639442d-125b-46c8-b7fa-845c5c8649ea?#),如下
+Android, IOS 证件OCR插件（身份证，银行卡等）
 
 ---
 
