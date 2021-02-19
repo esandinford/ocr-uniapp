@@ -48,11 +48,11 @@ Android, IOS 证件OCR插件（身份证，银行卡等）
 esandOcrModule.processOcr(options, callback);
 
 ```
-##其他信息
+## 其他信息
 完整接入文档：https://esandinfo.yuque.com/books/share/80f28828-9ab9-45f4-a73d-b10dc6f91083?#
 服务器端协议文档：https://market.aliyun.com/products/57000002/cmapi00042834.html
 后端管理控制台地址: http://openali.esandcloud.com
-###技术支持
+### 技术支持
 ```
 微信：esand_info
 qq: 3626921591
